@@ -13,7 +13,6 @@ body {
     font-size: 12px;
     line-height: 1.428571429;
     color: #333;
-    
 }
 
 .imgShadow {
@@ -22,6 +21,10 @@ body {
 
 .imgShadowLeft {
     box-shadow: -3px 5px 20px 0px rgba(51, 102, 153,1);
+}
+
+.imgShadowSmall {
+    box-shadow: -3px -2px 20px 0px rgba(51, 102, 153,1);
 }
 
 hr {
